@@ -1,0 +1,21 @@
+<resources>
+<string name="app_name">Test APP</string>
+<string name="Email_text">changliu8@cmail.carleton.ca</string>
+<string name="Question_text">string text</string>
+<string name="ButtonA_text">A</string>
+<string name="ButtonB_text">B</string>
+<string name="ButtonC_text">C</string>
+<string name="ButtonD_text">D</string>
+<string name="ButtonE_text">E</string>
+<string name="optionA_text">"option A"</string>
+<string name="optionB_text">"option B"</string>
+<string name="optionC_text">"option C"</string>
+<string name="optionD_text">"option D"</string>
+<string name="optionE_text">"option E"</string>
+<string name="Button_next">next</string>
+<string name="Button_prev">prev</string>
+<string name="Button_submit">submit</string>
+<string name="text_name">name</string>
+<string name="text_id">id</string>
+
+</resources>

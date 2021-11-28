@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exam>
+    <question id="question_1" contributor="Chang Liu">
+        <question_text>
+            Which ONE of the following is object oriented programming
+        </question_text>
+        <option_A>Java</option_A>
+        <option_B>Prolog</option_B>
+        <option_C>Scheme</option_C>
+        <option_D>C</option_D>
+        <option_E>None of Above</option_E>
+    </question>
+    <question id="question_2" contributor="Chang Liu">
+        <question_text>
+            Which of the following is not a Java features?
+        </question_text>
+        <option_A>Dynamic</option_A>
+        <option_B>Architecture Neutral</option_B>
+        <option_C>Use of pointers</option_C>
+        <option_D>Object-oriented</option_D>
+        <option_E>Static</option_E>
+    </question>
+    <question id="question_3" contributor="Chang Liu">
+        <question_text>
+            The default value of a static integer variable of a class in Java is,
+        </question_text>
+        <option_A>0</option_A>
+        <option_B>1</option_B>
+        <option_C>Garbage value</option_C>
+        <option_D>null</option_D>
+        <option_E>-1</option_E>
+    </question>
+    <question id="question_4" contributor="Chang Liu">
+        <question_text>
+            Multiple inheritance means,
+        </question_text>
+        <option_A>more classes inheriting from one super class</option_A>
+        <option_B>one class inheriting from more super classes</option_B>
+        <option_C>more classes inheriting from more super classes</option_C>
+        <option_D>None of the above</option_D>
+        <option_E>(e) (a) and (b) above.</option_E>
+    </question>
+    <question id="question_5" contributor="Chang Liu">
+        <question_text>
+            To prevent any method from overriding, we declare the method as,
+        </question_text>
+        <option_A>static</option_A>
+        <option_B>const</option_B>
+        <option_C>final</option_C>
+        <option_D>abstract</option_D>
+        <option_E>none of the above.</option_E>
+    </question>
+    <question id="question_6" contributor="Chang Liu">
+        <question_text>
+            The fields in an interface are implicitly specified as,
+        </question_text>
+        <option_A>static only</option_A>
+        <option_B>protected</option_B>
+        <option_C>private</option_C>
+        <option_D>both static and final</option_D>
+        <option_E>none of the above.</option_E>
+    </question>
+    <question id="question_7" contributor="Chang Liu">
+        <question_text>
+            Which of the following is not true?
+        </question_text>
+        <option_A>An interface can extend another interface.</option_A>
+        <option_B>A class which is implementing an interface must implement all the methods of the interface.</option_B>
+        <option_C>An interface can implement another interface.</option_C>
+        <option_D>An interface is a solution for multiple inheritance in java.</option_D>
+        <option_E>none of the above.</option_E>
+    </question>
+    <question id="question_8" contributor="Chang Liu">
+        <question_text>
+            In a class definition, the special method provided to be called to create an instance of that class is known as a/an
+        </question_text>
+        <option_A>Interpreter</option_A>
+        <option_B>Destructor</option_B>
+        <option_C>Constructor</option_C>
+        <option_D>Object</option_D>
+        <option_E>Compiler</option_E>
+    </question>
+    <question id="question_9" contributor="Chang Liu">
+        <question_text>
+            An overloaded method consists of,
+        </question_text>
+        <option_A>The same method name with different types of parameters</option_A>
+        <option_B>The same method name with different number of parameters</option_B>
+        <option_C>The same method name and same number and type of parameters with different return type</option_C>
+        <option_D>Both (a) and (b) above</option_D>
+        <option_E>(a), (b) and (c) above.</option_E>
+    </question>
+    <question id="question_10" contributor="Chang Liu">
+        <question_text>
+            Which of the following are not Java keywords
+        </question_text>
+        <option_A>double</option_A>
+        <option_B>switch</option_B>
+        <option_C>elif</option_C>
+        <option_D>null</option_D>
+        <option_E>instanceof</option_E>
+    </question>
+    <email>changliu8@cmail.carleton.ca</email>
+</exam>
